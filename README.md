@@ -13,7 +13,7 @@
 
 - :speech_balloon: Ask me about **lua, c#, Discord.js**
 
-- Discord **SSwift#8859**
+- Discord **Swift#8859**
 
 - :page_facing_up: Know about my experiences [FiveM Lua](FiveM Lua)
 
